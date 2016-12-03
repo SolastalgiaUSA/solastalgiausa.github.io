@@ -1,10 +1,8 @@
 ---
-title: About
+title: Why "solastalgia?" A short essay about names and places
 layout: post
 permalink: /about/
 ---
-
-# Why "solastalgia?" A short essay about names and places
 
 I don’t think I can in good faith call this blog “Solastalgia, U.S.A.” without beginning by recognizing the man who coined the word.  The term “solastalgia” is a word invented by Australian environmental scientist, and Professor of Environmental Studies at the University of Newcastle in New South Wales (Aus.), Glenn Albrecht.  Albrecht coined it in a 2007 study in the journal Australasian Psychiatry which was called “Solastalgia: the distress caused by environmental change”.  Albrecht’s title pretty aptly sums up what “solastalgia” means: It is the feeling of being lost in the place you once called home, despite never leaving.  It is the unshakeable sense that the world around you is slipping away, due to the gradual, or sudden, thinning of the ecological web that breathes all around you.
 
@@ -24,4 +22,4 @@ As a title, solastalgia denotes a dangerous paradigm of resource extraction and 
 
 [Glenn Albrecht: "Solastalgia: The Distress Caused by Environmental Change", _Australasian Psychiatry_, 2007: Full-text PDF from ResearchGate.net after the jump.](https://www.researchgate.net/publication/5820433_Solastalgia_The_Distress_Caused_by_Environmental_Change)
 
-* * * 
+* * *
