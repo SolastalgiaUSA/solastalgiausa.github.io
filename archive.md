@@ -5,14 +5,14 @@ permalink: /archived/
 ---
 
 #### A (mostly) plain text archive of _Solastalgia, USA_ posts from January 28 to October 10, 2016.  
-##### These were posted on my previous site, which was hosted on WordPress.  Like I mentioned in my [December 2, 2016 post](/2016/12/02/return.md) most of those posts were part of a school project.  I don't think they are my best work, so I'm putting this file up for anyone to read if it interests them, but I don't as yet have plans to migrate them into my new file management system.  It's a long document; use CNTRL-F to find your way around, or the table of contents.  If you want one of these articles put up on the current feed, [send me an email](/contact/) and I'll gladly polish and put it up.  Happy reading!
+__These were posted on my previous site, which was hosted on WordPress.  Like I mentioned in my [December 2, 2016 post](/2016/12/02/return.md) most of those posts were part of a school project.  I don't think they are my best work, so I'm putting this file up for anyone to read if it interests them, but I don't as yet have plans to migrate them into my new file management system.  It's a long document; use CNTRL-F to find your way around, or the table of contents.  If you want one of these articles put up on the current feed, [send me an email](/contact/) and I'll gladly polish and put it up.  Happy reading!__
 
 * Do not remove this line (it will not be displayed)
 {:toc}
 
- October 10, 2016
-# The Truth About Climate Change
 
+# The Truth About Climate Change
+October 10, 2016
 The Intergovernmental Panel on Climate Change (IPCC) is the premier scientific body studying climate change.  Currently, 195 of the world’s foremost researchers of the earth system, atmosphere, oceans, and climate serve on the IPCC, which releases a three-volume, extremely comprehensive report on the state of the climate every year.  The IPCC offers advice, primarily to national governments around the globe, on how to deal with climate change.  Reports by the Panel are generally recognized as the authoritative statement on climate change from the scientific community.  To be a prominent member of the IPCC generally indicates that a scientist has the respect of his/her colleagues in the field of climate science.
 
 Which makes it just a sprinkle of surprising that two former IPCC scientists have broken party lines so to speak, and come forward with a new report, published by the US affiliate of the Buenos Aires-based Fundación Ecológica Universal (FEU-US), that departs from the IPCC’s cautious and methodical tone about climate change.  The scientists, Sir Robert Watson, a former chairperson of the IPCC, and Dr. Carlo Carraro, a former vice-chair of the IPCC’s Working Group III, teamed up with five other climate experts from Switzerland, Austria, Argentina and the United States, to produce a report that was released to the public on September 29, 2016.  The report, provocatively titled “__[The Truth about Climate Change](https://drive.google.com/drive/folders/0B7HRGKIJWol-OEZfNDFjRHUwM2c)__”, comes after the major countries of the world signed an agreement worked out in Paris earlier this year that commits all signing countries to voluntary pledges to cut emissions - pledges that are reviewed every five years, but are _not_ subject to legal enforcement.  The goal of the Paris Agreement was to limit global temperature rise to less than 1.5oC and to keep the upward trend in temperatures to less than 2oC; the latter a threshold defined by scientists as the point [past which a warming atmosphere will be catastrophic](http://www.metoffice.gov.uk/media/pdf/s/e/2degrees-map.pdf), triggering massive storms, flooding, sea-level rise, and drought - a global change in habitability that may be irreversible.  A long-term greenhouse gas (GHG) emission reduction target set by the Paris Agreement is “a balance between anthropogenic (or man-made) emissions by sources and removal by sinks (the oceans, trees and plants) of greenhouse gases in the second half of the century”.
@@ -53,19 +53,19 @@ The study leaves us with only two positives: 1) there is still time for countrie
 
 Especially in the USA — where two presidential debates have left us with a grand total of one question for either Hillary Clinton or Donald Trump (or their Vice Presidential nominees) that was [(almost) about climate change](https://www.washingtonpost.com/blogs/erik-wemple/wp/2016/10/10/the-presidential-debate-very-nearly-addressed-climate-change/?utm_term=.716cb352cd8e), even though [climate change-fueled Hurricane Matthew](https://www.theguardian.com/world/2016/oct/05/climate-change-hurricane-matthew-sea-level-rise) was [pulverizing coastlines](https://www.washingtonpost.com/blogs/erik-wemple/wp/2016/10/10/the-presidential-debate-very-nearly-addressed-climate-change/?utm_term=.716cb352cd8e) in the American southeast - the outlook seems bleak.  It will take a lot to break through the [media blackout](http://www.democracynow.org/2016/10/6/amid_media_blackout_over_climate_change) on climate change.  But any time humans are educated, informed, and prepared for a challenge, there is hope.  
 
- July 12, 2016
+
 
 # On Native reservations, groceries break the bank while Cheetos are cheap, food security report shows
-
+July 12, 2016
 A [working paper](http://www.firstnations.org/system/files/Indian_Country_Food_Price_Index_6-30-2016_FINAL.pdf) just released by the First Nations Development Institute further confirms a fact that one source called “[long suspected](http://indiancountrytodaymedianetwork.com/2016/07/12/7-foods-cost-more-rez-and-one-junk-food-costs-less-165101)”: the cost of food on Native American reservations is significantly higher than the national average, except for the prices of processed junk food, which are significantly lower than the national average.  
 
 Researchers compared prices gathered at eight grocery stores on or near reservation communities to the average prices nationwide over a period of six months between October 2014 and February 2015.  Their basket of goods included milk (averaging $.44 cents/gallon more expensive than the nationwide average), bread ($.66 cents/loaf more expensive), apples ($.83 cents/lb. more expensive), and coffee ($1.63/lb. more expensive).  Apples and coffee were consistently more expensive than the national average across all stores surveyed.  The only good surveyed that was consistently cheaper in grocery stores serving primarily Native populations was Cheetos (by 62 cents).  
 
 This research, part of an ongoing project, highlights the deep-seated inequalities in our national food system, while giving more evidence for those calling for [Aboriginal food autonomy](http://theconversation.com/why-aboriginal-people-need-autonomy-over-their-food-supply-41812) on a global scale.
- July 12, 2016
+
 
 # Republican Party draft platform parrots coal lobbying groups
-
+July 12, 2016
 While the Democratic Party draft platform for 2016 does more to combat climate change than any party platform in the history of the country, the corresponding draft document from the Republican side of US politics calls coal a “clean” energy resource.  That language was [proposed as a single item line edit](http://www.c-span.org/video/?c4610196/clean-coal) from Texas delegate David Barton, who based his reasoning on the fact that technologies currently exist to filter out an insignificant amount of the atmospheric carbon released from coal combustion.  Cashing in on “clean” coal language brings the Republican party platform’s wording on coal to an almost word-for-word carbon copy of the [talking points](http://www.americaspower.org/coal-based-electricity/affordable/for-families/) issued by the energy industry lobby group “American Coalition for Clean Coal Electricity” (ACCCE) which currently represents [32 corporations](http://www.americaspower.org/coal-based-electricity/affordable/for-families/) including Peabody Energy (a major coal company), American Electric Power, Trapper Mining Co., Western Fuels Association, and the Coal Utilization Research Council.  The ACCCE has not just been involved in the 2008 and 2012 elections, but also geared up heavily for the 2009 debates on cap-and-trade legislation (the Waxman-Markey Bill) by hiring a veteran energy lobbyist, ex-nuclear engineer Paul Bailey, to lead its lobbying efforts against the bill.  
 
 See for yourself how close the final language in the Republican party platform is to the talking points from the coal industry:
@@ -77,10 +77,10 @@ This is from the [lobbying website](http://www.americaspower.org/coal-based-elec
 > an affordable, abundant and increasingly clean domestic energy resource that is vital to providing reliable low-cost electricity
 
 I don’t see much of a difference, do you?  Political party platforms are usually written to appeal to a base of voters who share your core values.  Who, then, does our current Republican Party consider its base?  
- Solastalgia, USA: July 11, 2016
+
 
 # If you can’t stand the heat, talk to your legislator
-
+July 11, 2016
 To date, the Dust Bowl was the worst environmental disaster in the history of the United States.  In their ignorance, American settlers arriving in a foreign land (one that belonged to many indigenous nations) deeply plowed the topsoil of the Great Plains, uprooting native grasses and vegetation that had, with their deep root networks, both held moisture in the soil in periods of drought, and held the soil to the ground during high winds.  The result was predictable only in hindsight; at the time it was devastating.  A drought period beginning in the 1930’s parched the unrestrained topsoil, and strong winds blew it away, which further destabilized the remaining soil and caused the whole process to repeat over and over again.  More than a century earlier, in the 1820’s, explorer Stephen Long had explored the American West and, upon returning home, declared it the “Great American Desert” and recommended against settling there.  The Dust Bowl revealed to the country (those who were willing to look) the truth of Long’s diagnosis — as well as the destruction that Western settlement, agriculture, and technology could wreak on such a fragile ecosystem.  The Dust Bowl coincided with several years of record-setting heat across the Great Plains, the Midwest, and the Great Lakes regions.  For example, according to the National Weather Service of the National Oceanic and Atmospheric Administration (NOAA), [the cause of the heat wave](http://www.weather.gov/arx/heat_jul36) (which led to 5,000 heat-related deaths and ruined harvests across the country) was “droughts” caused by “lack of rain” being exacerbated by “poor land management (farming techniques) across the Plains” which left the soil “without vegetation and soil moisture”.  During the summer of 1936, a high-pressure system set up over the west coast, and the “furnace” created by the weather conditions over drought-ravaged areas was funneled to the east, causing the record temperatures in which 5,000 people died.  Many of the temperature records from the heatwave of 1936 still stand to this day.
 
 But those records won’t last for long in an age of anthropogenic climate change.  Forebodingly, they are already beginning to fall.  
@@ -103,10 +103,10 @@ The time has come to do something about the problem that we have spent the past 
 
 So, if you were wondering if it’s usually this hot out.
 
- Solastalgia, USA: Jul8/2016
+
 
 # Storm reports
-
+Jul8/2016
 https://youtu.be/QY8CWlZj014
 
 “Global warming to drive increase in severe thunderstorm risk in U.S., Stanford research finds”, [Bjorn Carey, September 25, 2013](http://news.stanford.edu/news/2013/september/climate-severe-thunderstorms-092313.html), *Stanford Report*:
@@ -146,10 +146,10 @@ A [massive typhoon](https://www.theguardian.com/world/2016/jul/08/super-typhoon-
 
 June continued a 14-month streak of [smashing global monthly temperature records](https://www.theguardian.com/environment/2016/jul/07/us-june-hottest-temperature-record-climate-disasters).  Every month in the year 2015 and every month thus far in 2016 has been [hotter than every year before it](http://www.democracynow.org/2016/7/8/headlines/june_hottest_on_record_arctic_ice_at_record_low) in human history.  
 
- Solastalgia, USA: Jun20/2016
+
 
 # Photos and notes from Break Free
-
+Jun20/2016
 May 16, 2016 in Whiting, Indiana, was a brisk spring day.  High of 70F, low of 43F.  In the morning, there was a slight haze over the water, and the wind blew hard off the lake – an onshore breeze, someone sagely remarked as we passed each other on the pier.  The end of the pier in Whiting’s Lakefront Park is the perfect place to see the Chicago skyline in the distance.
 
 ![](IMG_2367-1024x804.jpg)
@@ -244,10 +244,10 @@ You can see video of peaceful protestors being arrested by these guys for sitti
 Break Free was invigorating, productive, peaceful, and an overwhelmingly positive experience.
 
 There will be a next time.  I will see you there, my friends and relations.
- Solastalgia, USA: May6/2016
+
 
 # Watershed revitalization in China’s Loess Plateau: An international interlude
-
+May6/2016
 ### Introduction
 
 We ended our last post by moving the conversation about Flint, MI’s water crisis onward, away from political finger-pointing, and toward a discussion of the ongoing environnental degradation of the Flint River watershed.  Tim Carmody’s well-researched and [excellent article on The Verge](http://www.theverge.com/2016/2/26/11117022/flint-michigan-water-crisis-lead-pollution-history) supplied us with a trove of information on the myriad ways the Flint River watershed has been desecrated by more than a hundred years of human neglect and disrespect.  Among the many examples of watershed pollution include “raw sewage discharges from Flint’s wastewater plant”, “road salt on the city’s bridges rais(ing) the river’s chlorine levels” – and therefore the water’s corrosivity to the city’s lead pipes – and industries like General Motors leaving behind “heavy metals like arsenic, mercury, and lead, toxic solvents, volatile organic compounds (VOCs), and polynuclear aromatics (PNAs) including petroleum compounds.”
@@ -420,10 +420,10 @@ Meanwhile, another study, published in the journal *CATENA* in 2011, included o
 Thus far, we have talked about three major topics: the first is the environmental history of the Loess Plateau, which is a tale of anthropogenic ecosystem degradation on a massive scale; the second is the heroic efforts to rehabilitate and revitalize the Loess Plateau ecosystem through an intensive agroforestry and hydrological engineering project; and the third is the positive effect similar efforts may have on a global climate that is rapidly spinning out of control due to human activity.  These are all fundamental, global, international issues, despite being seemingly situated in one local area.  The most redeeming feature of the rehabilitation efforts in the Loess Plateau from the perspective of the Earth is the focus on the entire watershed, from rainfall in the mountains to the floods downstream.  The most redeeming feature from the perspective of the Sky and the atmosphere is the possibility that these sorts of human projects may mitigate or even undo the thoughtless violence we have wreaked on the global climate by incessantly burning fossil carbon.
 
 We have the technology.  It’s the oldest technology in the book.  Will we use it?
-# Solastalgia, USA: Apr26/2016
+
 
 # Flint is still poisoned while we bicker about it, schools and hospitals are lead-poisoned nationwide — so let’s start talking about watersheds
-
+Apr26/2016
 ### Introduction
 
 We need to start talking about the water poisoning crisis in a different way.  Starting right now.
@@ -594,10 +594,10 @@ EPA rules, written in the 1980’s, currently allow the intentional contaminatio
 And finally, last year was the sad anniversary of the Energy Policy Act of 2005, which allowed for two things: it gave the Federal Energy Regulatory Commission (FERC), which is unaccountable to public control, sweeping powers to supersede state and local control of pipeline and drilling infrastructure, which allowed for the formation of regional energy cartels which have become increasingly influential in Washington; and most importantly, through a section of the law known as the “Halliburton Loophole,” it “explicitly exempted fracking operations from key provisions of the Safe Drinking Water Act”, according to this [report](http://www.alternet.org/environment/10-years-later-fracking-and-halliburton-loophole), which continues, “This means that 10 million Americans — and truly many more — have been placed directly in harm’s way. Hundreds of peer-reviewed studies have connected fracking to serious human health effects, including cancer, asthma and birth defects.”
 
 We cannot drink, bathe in, or irrigate crops with oil.  When will we learn that we cannot live without water?
- Solastalgia, USA: Apr5/2016
+
 
 # Local news: Sulfuric acid spill at MSU power plant
-
+Apr5/2016
 Around 8:30 am this morning, the T.B. Simon Power Plant on the Michigan State University campus reported a major chemical spill. According to a local news report, “[hundreds of gallons of sulfuric acid](http://wlns.com/2016/04/05/developing-acid-spill-reported-at-msu-simon-power-plant/)”, also known as battery acid, were spilled inside the plant, which is located on Service Road toward the south end of residential campus. When I walked by at around 11 am, the WLNS news team confirmed that it was a “sulfur” spill (checking the written report, above, that the same team put out, the chemical was sulfuric acid, H2SO4, a sulfur-containing compound) and that the “first floor” of the plant was “evacuated”.
 
 UPDATE 8:03 pm: [WLNS has released a follow up story](http://wlns.com/2016/04/05/msu-power-plant-sulfuric-acid-spill-leads-to-day-long-cleanup/) with some added details. The spill was in the basement of the power plant, springing from a leaky valve connecting the inside tank with a larger outside tank, both filled with sulfuric acid. The quantity spilled is now estimated at 800 gallons. In addition, some unknown, but probably very small, amount of the toxic gas sulfur trioxide, which results from the reaction of sulfuric acid with heat and air, was released from the spill. (This is probably why people standing downwind of the plant, like where I was this morning, smelled that distinctive “rotten egg” sulfur smell in the air.)
@@ -649,17 +649,17 @@ This spill at MSU joins a legion of other sulfuric acid spills across the countr
 Sulfuric acid is extremely damaging to the environment. Lawuyi & Fingas remind us that:
 
 > Sulfuric acid is a **powerful acidic oxidizer** and a **strong dehydrating agent**. It is **harmful to many microorganisms, plants, and aquatic life** in concentrations as low as 6 mg/L.
- Solastalgia, USA: Mar16/2016
+
 
 # Photo: “The cords that bind the earth”
-
+Mar16/2016
 ![](97f8d608-39a1-4168-a0ca-099ca490217e.jpg)
 “To stick your hands into the river is to feel the cords that bind the earth together.”
 - Barry Lopez, *River Notes: The Dance of Herons*, pg. 100
- Solastalgia, USA: Mar16/2016
+
 
 # Drying up the American Nile: Solastalgia in the American West
-
+Mar16/2016
 Welcome back!  Sorry for the hiatus.  I just got back from a wonderful spring break and I hope anyone reading this also enjoyed their week.  Even two national parks, 25+ miles of hiking, and 48 hours of road tripping isn’t quite enough to keep my mind entirely from what this blog is about, however.  Still — so often it was totally and completely entrancing:
 
 ![](10247325_10205553127334143_4042063565913205710_n.jpg)  
@@ -725,10 +725,10 @@ A story on the Porter Ranch methane leak in Los Angeles County has been sorely n
 Fracking has also been on my mind recently, perhaps because examples of it lie closer in proximity to my own home in Michigan.  If I have digressed too many times lately on the subject, it is because a story is forthcoming.  Porter Ranch is on deck and fracking is in the hole.  Look for those two stories coming in the next few weeks.
 
 Back to work!  Welcome home.
- Solastalgia, USA: Feb29/2016
+
 
 # Remember Sebring?  Removal of corrosion control caused crisis there, too
-
+Feb29/2016
 A few weeks ago we wrote here that Sebring, Ohio, a small town in rural northeast Ohio, was experiencing a “growing drinking water crisis”.  High levels of lead were found in the drinking water during “routine testing”, a local news source at the time reported.
 
 At the time, based on [very good studies](http://flintwaterstudy.org/) of what had happened in Flint, we wondered if the problem in Sebring had something to do with a lack of corrosion control in the water.  At the time, officials [had said](http://www.cbsnews.com/news/sebring-ohio-next-flint-water-crisis-lead-copper/):
@@ -757,10 +757,10 @@ In addition, as we talked about the last time we wrote about Sebring, it took a�
 
 Like we said last time, keep an eye on Sebring.  It’s an echo of the same forces that caused the Flint tragedy.  Our thoughts are with the families who are suffering.
 
- Solastalgia, USA: Feb26/2016
+
 
 # Privatization and profits at the expense of people: Flint in perspective
-
+Feb26/2016
 ### Flashback
 
 It’s April 25, 2014.  Flint, Michigan, had just made the ill-fated switch from clean, pure Lake Huron-sourced drinking water pumped through the Detroit Water and Sewerage Department (DWSD) regional supply system, to full-time use of a backup system — the Flint River — which had sat idle ever since 1964 ([when a corruption scandal over the construction of a Lake Huron pipeline](http://www.mlive.com/news/flint/index.ssf/2012/11/ghosts_of_corruption_still_lin.html) led the city to sign a contract with DWSD for drinking water).  Then-Mayor Dayne Walling is the one officially commencing the switch to emergency-backup river water.  When he [presses the button cutting off DWSD supply](http://www.mlive.com/news/flint/index.ssf/2014/04/closing_the_valve_on_history_f.html), the small group of high-level officials crammed into a small out-building of the Flint Water Treatment Plant breaks out in celebration.
@@ -985,10 +985,10 @@ Cases of Ice Mountain Nestle bottled water.
 ![](national%20guard%20boxed%20ice%20mountain%20water.jpg)  
 Source: Mint Press News
 
-# Solastalgia, USA: Feb19/2016
+
 
 # Don’t shit on other people’s stuff
-
+Feb19/2016
 You might think this advice goes without saying.  You might think that.
 
 What most people don’t automatically think about, however, is that every patch of ground they walk over on the American continents was once the living, planting, hunting and sacred lands of pre-Columbian civilizations.  As Europeans and later Americans (mostly white &of European descent) colonized and settled the interior of the continent, they slaughtered most of the native inhabitants and shoved the rest onto tiny plots of less-valuable land so that the white guys could get the best stuff for themselves.
@@ -1017,10 +1017,10 @@ Now, the real tragedy, of course, is that we, the USA, have slaughtered, impriso
 But sometimes you just have to speak from bare human decency.
 
 Don’t shit on other people’s stuff.
- Solastalgia, USA: Feb16/2016
+
 
 # Manmade earthquakes shake fracking capital of Canada, too
-
+Feb16/2016
 If Oklahoma (which is currently experiencing [2.5 earthquakes every day](http://www.theguardian.com/us-news/2016/feb/13/oklahoma-earthquakes-magnitude-fracking) that measure over 3.0 on the Richter scale) is the hydrofracking capital of the US, then Alberta Province, Canada, is the fracking capital of Canada.  Residents there are experiencing [an average of one earthquake per day](http://phys.org/news/2016-01-fracking-alberta-daily-quakes-thirsty.html), a development that official studies say has been “triggered by fluid injection during hydraulic fracturing”.
 
 Just last month, on January 12, 2016, an earthquake measuring 4.8 on the Richter scale [shook the small town of Fox Creek, Alberta](http://www.cbc.ca/news/canada/edmonton/fox-creek-fracking-operation-closed-indefinitely-after-earthquake-1.3400605).  The quake was “unusually strong” and effects were felt as far as 280 km away from the epicenter.  Fossil fuel regulators have shut down one hydrofracking operation owned by Repsol Oil & Gas (35 miles away from Fox Creek). Why? It turns out that the Repsol Oil & Gas drilling unit was actually in the process of injecting fluids into the ground at the exact moment when the earthquake hit:
@@ -1045,10 +1045,10 @@ When will we learn that we can live without oil, but we cannot live without wate
 ￼![](uscanadafrackquakes.png)
 Map of states/provinces experiencing fracking and wastewater quakes, [courtesy of ICN](http://insideclimatenews.org/sites/default/files/styles/colorbox_full/public/USCanadaFrackQuakes.PNG?itok=e54RDehA).
 
- Solastalgia, USA: Feb16/2016
+
 
 # People frack the earth, and she quakes in pain
-
+Feb16/2016
 Two earthquakes struck northern Oklahoma on Saturday (2/13/16).  The larger of the two was a 5.1 on the Richter scale. The smaller, which struck a mere 10 minutes after the first, measured 3.9, [The Guardian reports](http://www.theguardian.com/us-news/2016/feb/13/oklahoma-earthquakes-magnitude-fracking).
 
 The larger first quake could very well be the largest earthquake ever recorded in Oklahoma, upsetting the previous record set in 2011 for a quake that measured 5.6 on the Richter scale. As of right now, it is “not known” if the event was triggered by oil&gas drilling in the area.
@@ -1093,19 +1093,19 @@ Another state that has experienced this trend is Arkansas, where residents of th
 So, Oklahoma is actually accepting fracking wastewater from other states and injecting it into their own bedrock.
 
 I wonder why y’all are having all these earthquakes all of a sudden?
- Solastalgia, USA: Feb16/2016
+
 
 # Preview: look at the methane volcano in Los Angeles
-
+Feb16/2016
 ![](methane%20leak%20.gif)  
 .gif created from [this TYT video](https://www.youtube.com/watch?v=Xo7-HpAgQYA#t=1m53s).
 
 This is a video of a runaway natural gas leak in Porter Ranch, California.  The leak, originating from the largest US underground natural gas reservoir west of the Mississippi River, has pumped methane and other contaminants into the air since October 23rd of *last year*. Just a few days ago (February 11, 2016), the leak was finally brought under control for the first time since it started.  Residents and health officials are warning that the leaked contaminants include not just methane, which is harmful in itself, but also benzene and formaldehyde, two known carcinogens. Gas had been flowing out of the leak “uninterrupted” since the spill was noticed by residents last year.
 More on this story to come.
- Solastalgia, USA: Feb14/2016
+
 
 # By the way: This is what free trade unfairness looks like
-
+Feb14/2016
 Four days ago, on Wednesday February 10, 2016, a Carrier Corp. factory in Indianapolis (which manufactures heating, ventilation, and air conditioning, HVAC, equipment), and a United Technologies Electronics Controls factory in nearby Huntington (which manufactures microprocessor-based controls for HVAC products) both announced that they were closing down and shipping off to Mexico, [the Indiana Business Journal reports](http://www.ibj.com/articles/57162-carrier-plans-to-lay-off-1400-indy-workers-in-mexico-move). 
 
 The announcement was caught live on a cell phone camera:
@@ -1143,10 +1143,10 @@ Or to put it in plain language:
 > “Because of corporate greed, 1,300 of our members and their families have a hell of a price to pay,” Chris Jones said.
 
 “Free” trade is a misnomer.  The only entities that become more “free” due to free trade policies (including NAFTA, which we have to thank for setting the stage for this mass layoff in Indy) are the wealthy corporations who become “free” to ignore the workers who have made their products for decades and “free” to continue the race to the bottom. 
- Solastalgia, USA: Feb7/2016
+
 
 # Flint is ground zero for largest Legionnaire’s disease outbreak in a decade
-
+Feb7/2016
 We knew this already, but just now the national media is really having a field day with it: Emails released from Governor Rick Snyder’s administration in Michigan have conclusively confirmed that state officials close to the Governor knew about a likely connection between a Legionnaire’s disease outbreak in the greater Flint area, and the switch to the Flint River as a drinking water source for the city.  Legionnaire’s disease is a form of bacterial pneumonia that is spread through water vapor, and common transmission vectors include air-conditioning units and vaporizers.
 
 In what Fox2 Detroit, with tardy but voracious aplomb, is calling [“a possible bombshell in the Flint water crisis”](http://www.fox2detroit.com/news/flint-water-crisis/84537332-story), emails acquired through a Freedom of Information Act request by Progress Michigan show that Snyder’s office knew about the connection between Legionnaire’s and the Flint River at least ten months before the Governor revealed it to the public.
@@ -1203,10 +1203,10 @@ This can’t be satisfactorily explained by a seasonal change because November &
 The emails released by Progress Michigan [call](http://www.mlive.com/news/flint/index.ssf/2016/01/documents_show_agencies_knew_o.html) the outbreak “one of the largest we know of in the past decade”, and one close look at the data shows you why health researchers are worried.
 
 We can play the blame game [all we want](http://www.heraldonline.com/news/article58102418.html), but the disease data doesn’t lie.
- Solastalgia, USA: Feb7/2016
+
 
 # Following a lead: Henry County Water Company, Missouri
-
+Feb7/2016
 Famed environmental activist Erin Brockovich posted a public warning on Facebook three days ago (2/3), *warning* consumers that they *would* be told about dangerously high levels of trihalomethanes (THMs) in their water beginning on February 16.
 
 Yes, that’s right.  I, too, was confused about the prediction of a problem that has not yet been revealed to the public.  My guess is that Brockovich has some inside information that we have yet to see.  Here is the first half of the Facebook post:
@@ -1292,10 +1292,10 @@ Alliance-managed water systems, most notably in Boonville, MO, and Clinton, UT, 
 Residents say that cities near the Henry County Water Company, like Garden City, MO, have terrible water quality that shows many similarities, on the surface, to the drinking water coming from the Flint River.
 
 Keep your eye on Clinton, MO — let’s see if Brockovich is right.
- Solastalgia, USA: Feb7/2016
+
 
 # Jackson, Mississippi also has an unreported lead problem
-
+Feb7/2016
 Add another city to the list.
 
 Flint, MI.  Sebring, OH.  Warren, OH.
@@ -1332,10 +1332,10 @@ Of course, we can’t be sure of the answer to this question — Did the City of
 
 Someone really should.
 
- Solastalgia, USA: Feb5/2016
+
 
 # Prisoners and undocumented in Flint: “The least among you, suffer even more”
-
+Feb5/2016
 ### Prisoners
 [An exclusive report from Democracy Now!](http://www.democracynow.org/2016/2/4/exclusive_report_how_long_did_flints) is showing that inmates in Flint’s prisons were forced to drink, bathe in, and eat food prepared with tap water, for almost the entire span of time that Flint’s water system was taking in corrosive water from the Flint River and pumping it through decrepit pipes that leached lead into the water coming from the taps.
 
@@ -1392,10 +1392,10 @@ Again, in plain language, this means that the children of pregnant women who dra
 Once more in plain language, this means that once again, we as a society have chosen to subject “the least among you” — Flint’s undocumented and prisoners in this case — to the most suffering.  Not only that, but we have ensured that their children will suffer, too, for the rest of their lives.
 
 In plain language, this is wrong.
- Solastalgia, USA: Feb3/2016
+
 
 # Telesur: Flint is part of a greater struggle for water rights
-
+Feb3/2016
 Kari Lyderson at TelesurTV.net has a great piece on the Flint water crisis that everyone should read.  She very persuasively argues that Flint is but one puzzle piece in a wider struggle over water rights in the state of Michigan.  Here’s an especially cogent excerpt:
 
 *Lyderson*:
@@ -1423,10 +1423,10 @@ Dr. Robert Bullard of Texas Southern University has a [similar take on the situa
 > Unequal protection is a reality. **The right to clean air, clean water and safe places for kids to play is something that affluent communities take for granted**. But **many low-income and minority communities don’t get parks**, or **street lights**, or **housing code enforcement**, or **safe drinking water**. The **cumulative environmental stresses** in these neighborhoods **create a toxic stew**. And **then government agencies don’t respond** when people complain. **The government’s nonresponse to Flint’s water crisis is on the scale of the federal nonresponse to Hurricane Katrina.**
 
 Since Dr. Bullard mentions it, there is extensive evidence that [Hurricane Katrina was used as an excuse to push through otherwise-unpopular privatization schemes](http://www.democracynow.org/2015/8/28/shock_doctrine_a_look_at_the).  Flint needs to be smart enough not to fall for this trick in the days & months to come.
- Solastalgia, USA: Feb2/2016
+
 
 # Water privatization across the country; water poisoning in Indian country
-
+Feb2/2016
 You know about Flint.  You’ve heard about Sebring, OH.
 
 In both places, basically the same thing happened: lax controls, oversight, and regulation allowed corrosive river water to leach lead from old pipes into the drinking water.
@@ -1559,10 +1559,10 @@ The truth that the case of Sanders inconveniently reveals to us is that a 21st c
 
 ￼![](1leona.jpg)  
 Leona Morgan in front of the sign of the day: “Clean Nuclear is a Deadly Lie”
- Solastalgia USA: Feb3/2016
+
 
 # Another town in eastern Ohio has lead-poisoned water
-
+Feb3/2016
 I’ll get right to it, because this was just posted this afternoon.  The city of Warren held a press conference this afternoon because city officials [announced that some houses in Warren had tested positive for elevated levels of lead last summer](http://www.cleveland.com/metro/index.ssf/2016/02/high_lead_levels_found_in_warr.html):
 
 > A press conference is scheduled for this afternoon after **two homes** on Perkinswood Boulevard **tested for high amounts of lead in the water last summer, but the entire city was not notified**, [WKBN-TV in Youngstown reported](http://wkbn.com/2016/02/02/warren-officials-to-address-city-water-concerns/). **One of those homes had a reading of 64 parts per billion**, which is about three times higher than the levels in Sebring last month, [which prompted a health alert to be issued](http://www.cleveland.com/metro/index.ssf/2016/01/excess_amount_of_lead_found_in.html) and schools to be closed.
@@ -1605,16 +1605,16 @@ Don’t be surprised if we see more stories like this soon as more and more wate
 > **The presentation was prompted by questions about Warren’s water resulting from news coverage of lead-related problems in Flint, Mich., and Sebring**.
 > **Lucarelli said the water coming from the Warren water-treatment plant was fine**, but lead can leach out of lead pipes and fixtures in some homes, causing elevated lead levels in the water, Flask said.
 > **Lucarelli did not mention that a house on Perkinswood had a reading of 64 parts per billion – four times higher than the allowable level** set by the federal government – or that the other high reading was less than two blocks away, Flask said. **The other reading was 18 ppb, three parts higher than the allowable level of 15**.
- Solastalgia, USA: Jan31/2016
+
 
 # Sign: “Snyder Poisoned Flint Children - And Knew It”
-
+Jan31/2016
 ![](9af5138c82c8602a-770x503.jpg)  
 It is unfortunate that this sign is correct.  From [CreativeResistance.org](http://www.creativeresistance.org/arrest-governor-snyder/).
- Solastalgia, USA: January 31, 2016
+
 
 # Echoing Flint: Sebring, OH has lead in its drinking water
-
+January 31, 2016
 Multiple news outlets have been reporting recently about the lead-in-water problems faced by cities all over the US, not just in Flint, Michigan, as we covered in our first cover story a few days ago.  A lot of municipal water systems in the US are old and ill-maintained, and the effects of the lax management and outdated construction of those systems are starting to show.
 
 Sebring, Ohio, a small town of 4,420 in north-eastern Ohio, is “facing a growing drinking water crisis” that seems like an echo of what Flint experienced in 2014-2015.  According to a CBS news report:
@@ -1678,10 +1678,10 @@ Secondly, Ohio Governor Jim Kasich is already fielding questions about his admin
 I would be less kind than the author of the Dispatch and say that Kasich was in fact flat-out telling falsehoods, or else totally confused, when he said that Flint’s poisonous water came from a “tainted water source”.  If at this point you are a high-ranking elected official and you don’t understand the process of lead contamination in Flint, you are neglecting your duties.  If you’re a high-ranking official who is overseeing almost an identical crisis in your own jurisdiction, it is nigh-criminally negligent not to know what is causing it.
 
 Keep an eye on Sebring, Ohio.  The measured lead levels there (only from regular testing sites) already exceeds the federal allowance — 21 ppb according to CBS.  The maximum allowed level is 15 ppb.  Once data starts coming in from blood lead screenings, be prepared to hear a lot more about this Ohio town.
- Solastalgia, USA: Jan29/2016
+
 
 # Long before citizens, state officials in Flint got clean water
-
+Jan29/2016
 Mother Jones is reporting that according to newly released emails from the Michigan Department of Environmental Quality, the Department of Natural Resources, and the Department of Transportation, Management, and Budget, [state employees in Flint were given water coolers just days after the City of Flint announced that the water coming out of their faucets was in violation of the Safe Drinking Water Act](http://www.motherjones.com/environment/2016/01/snyder-administration-started-trucking-clean-water-state-buildings).
 
 According to the article, employees at these state agencies who were stationed in Flint heard about the notices being sent out by the city and made a stir about the safety of their water at work.
@@ -1701,10 +1701,10 @@ Let’s not forget that at this point in time, the city was telling its ordinar
 
 If I got that notice in the mail, I’d want a water cooler too.
 But it seems that only those who work for the Snyder administration are worthy of special water shipments to Flint?  By the administration’s logic, everyone else can just wait for the National Guard.
- Solastalgia USA: Jan28/2016
+
 
 # Not An Apology: The poisoning of Flint, Michigan’s drinking water
-
+Jan28/2016
 This article was on the front page of the New York Times on January 20.
 
 ![](screen-shot-2016-01-28-at-4-03-42-pm.png)  
@@ -2209,7 +2209,3 @@ As a non-resident of Flint, I have a limited understanding of where the ground f
 > Flint Democracy Defense League
 > [Nayyirah Shariff](https://twitter.com/nayyirahshariff) (organizer Twitter)
 > [Permalink](https://twitter.com/nayyirahshariff/status/692785320945782784) to organizing-related tweet
-# Solastalgia USA: Jan28/2016
-## Not An Apology: The poisoning of Flint, Michigan’s drinking water
-
-This article was on the front page of the New York Times on January 20.
