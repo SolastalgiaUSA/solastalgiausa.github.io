@@ -4,4 +4,6 @@ layout: post
 permalink: /contact/
 ---
 
-May be a contact form.
+Ask me anything!
+
+email: SolastalgiaUSA@gmail.com
