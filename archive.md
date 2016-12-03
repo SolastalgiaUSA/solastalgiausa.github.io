@@ -4,7 +4,8 @@ title: Archive
 permalink: /archived/
 ---
 
-#### A (mostly) plain text archive of _Solastalgia, USA_ posts from January 28 to October 10, 2016.  These were posted on my previous site, which was hosted on WordPress.  Like I mentioned in my [December 2, 2016 post](/2016/12/02/return.md) most of those posts were part of a school project.  I don't think they are my best work, so I'm putting this file up for anyone to read if it interests them, but I don't as yet have plans to migrate them into my new file management system.  It's a long document; use CNTRL-F to find your way around, or the table of contents.  If you want one of these articles put up on the current feed, [send me an email](/contact/) and I'll gladly polish and put it up.  Happy reading!
+#### A (mostly) plain text archive of _Solastalgia, USA_ posts from January 28 to October 10, 2016.  
+##### These were posted on my previous site, which was hosted on WordPress.  Like I mentioned in my [December 2, 2016 post](/2016/12/02/return.md) most of those posts were part of a school project.  I don't think they are my best work, so I'm putting this file up for anyone to read if it interests them, but I don't as yet have plans to migrate them into my new file management system.  It's a long document; use CNTRL-F to find your way around, or the table of contents.  If you want one of these articles put up on the current feed, [send me an email](/contact/) and I'll gladly polish and put it up.  Happy reading!
 
 * Do not remove this line (it will not be displayed)
 {:toc}
