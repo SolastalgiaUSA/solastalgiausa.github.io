@@ -3,5 +3,5 @@ layout: default
 ---
 <h1 class="headline">{{site.title}}</h1>
 {% for post in site.posts %}
-<h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2> <span style="color:#808080; font=monospace">{{ post.date | date: "%B %-d, %Y" }}:</span> {{ post.excerpt }}
+<h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2> <span style="color:#808080">{{ post.date | date: "%B %-d, %Y" }}:</span> {{ post.excerpt }}
 {% endfor %}
