@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dakota Access easement denied; no drilling under Lake Oahe, Army Corps says
 date: 2016-12-04 
 ---
