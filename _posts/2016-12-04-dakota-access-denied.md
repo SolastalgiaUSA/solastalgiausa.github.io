@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dakota Access easement denied; no drilling under Lake Oahe, Army Corps says
-date: 2016-12-04 
+date: 2016-12-04
 ---
 
 The proposed route of Dakota Access Pipeline project will be denied, and construction on the 1,172-mile underground pipeline will be put on hold indefinitely.  The Army Corps of Engineers released a statement today that said the Corps had denied an easement requested by Energy Transfer Partners LLC, which would have allowed the pipeline company to drill under a reservoir on the Missouri River called Lake Oahe, less than a mile away from the Standing Rock Sioux Reservation.  This decision by the Army Corps, which also requires a full Environmental Impact Statement to be completed for any new pipeline routes, is expected to be very hard for the incoming Donald Trump administration to immediately overturn.  Environmental impact assessments can take up to two years to complete, and the contracts issued to Energy Transfer Partners will expire if construction is delayed past January 1, 2017.  
@@ -14,7 +14,7 @@ by DANIEL A. MEDINA and CHIARA SOTTILE
 
 >CANNON BALL, N.D. — The secretary of the Army Corps of Engineers told Standing Rock Sioux Chairman Dave Archambault II Sunday that the current route for the controversial Dakota Access pipeline will be denied.
 
->Archambaut told NBC News after he heard the decision that he was "thankful that there were some leaders in the federal government that realized that something is not right even though it's legal."
+>Archambault told NBC News after he heard the decision that he was "thankful that there were some leaders in the federal government that realized that something is not right even though it's legal."
 
 >”This is something that will go down in history and I know that it's a blessing for all indigenous peoples," he said.
 
@@ -54,4 +54,3 @@ by BRAD PLUMER
 >Treaties are paramount law and must be respected, and we welcome dialogue on how to continue to honor that moving forward. We are not opposed to energy independence, economic development, or national security concerns but we must ensure that these decisions are made with the considerations of our Indigenous peoples.
 
 >To our local law enforcement, I hope that we can work together to heal our relationship as we all work to protect the lives and safety of our people. I recognize the extreme stress that the situation caused and look forward to a future that reflects more mutual understanding and respect.
-
