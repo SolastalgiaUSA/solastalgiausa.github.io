@@ -1,7 +1,7 @@
 ---
 title: Dakota Access easement denied; no drilling under Lake Oahe, Army Corps says
 date: 2016-12-04 
-—
+---
 
 The route currently proposed for the Dakota Access Pipeline in Cannon Ball, North Dakota, will be denied.  The Army Corps of Engineers released a statement today saying that it had denied an easement requested by Energy Transfer Partners LLC, which would have allowed the pipeline company to drill under a reservoir on the Missouri River called Lake Oahe.  This decision, which will also require a full Environmental Impact Statement for new pipeline routes, is expected to be very hard for the incoming Donald Trump administration to immediately overturn.  Environmental impact assessments can take up to two years to complete, and the contracts issued to Energy Transfer Partners will expire if construction is delayed past January 1, 2017.  
 
