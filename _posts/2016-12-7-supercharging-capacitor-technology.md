@@ -1,7 +1,6 @@
 ---
 layout: post
 title: New supercapacitor material means better, faster charge on electric vehicles
-youtubeID: Fyw7M6JimVc
 date: 2016-12-07
 ---
 
@@ -17,7 +16,7 @@ Tesla (the electric car manufacturer) CEO Elon Musk has gone on record saying th
 
 You can see a video of a (quite adorably) excited tourist explaining one of these buses on Shanghai's Route 11 below.
 
-{% include youtubePlayer.html id=post.youtubeID %}
+{% include youtubePlayer.html id="Fyw7M6JimVc&start=300" %}
 
 Large scale energy storage is a key issue for sustainable survival of the human species on the planet, as solar and wind power needs to be stored somewhere for when the wind is not blowing or the sun not shining.  What this new discovery highlights is that there are many ways of doing that, some of which might be more powerful than previously believed.
 
@@ -36,3 +35,5 @@ Links:
 [_Teslarati_, "Supercapacitor breakthrough suggests EVs could charge in seconds but with a trade-off", December 5, 2016](http://www.teslarati.com/supercapacitor-breakthrough-evs-charge-in-seconds/)
 
 [_TechCrunch_, "Elon Musk Says Super-Capacitors Not Batteries, Will Be Breakthrough For EVs", March 25, 2011](https://techcrunch.com/2011/03/25/elon-musk-says-super-capacitors-not-batteries-will-be-breakthrough-for-evs/)
+
+* * *
