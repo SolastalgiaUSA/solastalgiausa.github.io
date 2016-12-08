@@ -16,7 +16,7 @@ Tesla (the electric car manufacturer) CEO Elon Musk has gone on record saying th
 
 You can see a video of a (quite adorably) excited tourist explaining one of these buses on Shanghai's Route 11 below.
 
-{% include youtubePlayer.html id="Fyw7M6JimVc" %}
+{% include youtubePlayer.html id="Fyw7M6JimVc#t=300" %}
 
 Large scale energy storage is a key issue for sustainable survival of the human species on the planet, as solar and wind power needs to be stored somewhere for when the wind is not blowing or the sun not shining.  What this new discovery highlights is that there are many ways of doing that, some of which might be more powerful than previously believed.
 
