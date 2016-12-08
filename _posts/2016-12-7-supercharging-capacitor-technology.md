@@ -6,7 +6,9 @@ date: 2016-12-07
 
 On Monday, a research team led by scientists from the University of Surrey, in England, revealed a new organic polymer material that could increase supercapacitor energy density by 1,000 to 10,000 times.
 
-What this means is that an electric car powered by capacitor technology could make the trip "from London to Edinburgh" - a distance of 414 miles - on a single charge.  Not only that, but when a capacitor-powered car needed to be charged, the full charging process would take seconds to minutes (about how long it takes to fuel a gasoline-powered car), rather than the 6-8 hours that battery-powered electric cars typically need in order to reach full charge.  
+What this means is that an electric car powered by capacitor technology could make the trip "from London to Edinburgh" - a distance of 414 miles - on a single charge.  Not only that, but when a capacitor-powered car needed to be charged, the full charging process would take seconds to minutes (about how long it takes to fuel a gasoline-powered car), rather than the 6-8 hours that battery-powered electric cars typically need in order to reach full charge.
+
+A capacitor is a device that stores electricity within an electrical circuit. In its simplest form, it is two parallel conducting plates separated by a gap.  As voltage flows across the circuit, a charge builds up on the plates.  That charge can be released in a controlled way, meaning that capacitors are one way to store electrical energy for later use.   
 
 Electronic devices powered by these capacitors could also be charged "in just a few seconds", the researchers write.
 
